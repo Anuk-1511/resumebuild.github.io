@@ -24,7 +24,7 @@
     "webfontloader": "^1.6.28"
   },
   "scripts": {
-    "start": "node --max-old-space-size=4096 your-build-command && react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
