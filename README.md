@@ -40,8 +40,8 @@ Check out the live demo of the website [https://resumebuild-github-io.vercel.app
 
 1. Start the development server:
 
-```bash 
-    npm start
+```bash
+npm start
 
 2. Open your web browser and visit http://localhost:3000 to access the Resume Builder.
 
