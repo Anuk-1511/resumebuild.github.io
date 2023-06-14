@@ -29,9 +29,10 @@ Check out the live demo of the website [https://resumebuild-github-io.vercel.app
    git clone https://github.com/your-username/your-repo.git
 
 2. Navigate to the project directory:
-    ```bash cd your-repo```
+    ```bash
+   cd resumebuild.github.io
 
-3. Install the dependencies:
+4. Install the dependencies:
    ```bash
      npm install
 
@@ -40,7 +41,7 @@ Check out the live demo of the website [https://resumebuild-github-io.vercel.app
 1. Start the development server:
 
 ```bash 
-         npm start
+    npm start
 
 2. Open your web browser and visit http://localhost:3000 to access the Resume Builder.
 
